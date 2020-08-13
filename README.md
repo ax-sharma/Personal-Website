@@ -1,2 +1,2 @@
 # Anshuman Sharma
-## About ## Experience ### Education #### Skills ##### Contact
+## About    Experience    Education    Skills    Contact
